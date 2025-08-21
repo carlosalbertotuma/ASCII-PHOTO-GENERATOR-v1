@@ -1,4 +1,5 @@
 # ASCII-PHOTO-GENERATOR-v1
+<img width="736" height="1206" alt="image" src="https://github.com/user-attachments/assets/db4cae49-b50a-488e-9b57-efff3c771ace" />
 
 # 🖼️ ASCII-C0nv3rt  
 
@@ -30,7 +31,7 @@ Converta qualquer imagem em **arte ASCII** direto no terminal!
        [*]   Carlos Tuma - Bl4dsc4n    [*]
 
 
-<img width="736" height="1206" alt="image" src="https://github.com/user-attachments/assets/db4cae49-b50a-488e-9b57-efff3c771ace" />
+
 
 
 
