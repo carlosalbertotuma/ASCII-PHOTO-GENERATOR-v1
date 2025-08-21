@@ -29,7 +29,9 @@ Converta qualquer imagem em **arte ASCII** direto no terminal!
        [*] ASCII PHOTO GENERATOR v.0.1 [*]
        [*]   Carlos Tuma - Bl4dsc4n    [*]
 
-<img width="736" height="1206" alt="image" src="https://github.com/user-attachments/assets/cf2f01b3-c170-4b58-a29f-3c04877a5dfd" />
+
+<img width="736" height="1206" alt="image" src="https://github.com/user-attachments/assets/db4cae49-b50a-488e-9b57-efff3c771ace" />
+
 
 
 ⚙️ Requisitos
