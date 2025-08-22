@@ -63,5 +63,3 @@ Carlos Tuma - Bl4dsc4n
 
 
 ---
-
-👉 Quer que eu adicione no script suporte a **salvar o ASCII em um arquivo `.txt`** também, além de mostrar no terminal?
