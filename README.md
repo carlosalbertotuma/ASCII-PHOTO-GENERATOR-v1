@@ -7,7 +7,6 @@ Converta qualquer imagem em **arte ASCII** direto no terminal!
 
 ---
 
-## 🎨 Exemplo de saída
 
 ```text
     #     #####   #####  ### ###    ######
